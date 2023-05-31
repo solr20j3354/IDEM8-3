@@ -11,9 +11,10 @@
     
     body{
     
-    background-image: url("fondo.jpg");
-    
+    background-image: url("Fondo.jpg");
+
     background-repeat: no-repeat;
+    background-size: cover;
     
     }
     
