@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("Fondo.jpg");
+    background-image: url("pexels-irina-iriser-7633185.jpg");
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -48,8 +48,8 @@
         margin-left: 5px;
         
         margin-right:5px;
+    
         
-        background-image: url("medellin.jpeg");
         
         }
         
@@ -65,10 +65,44 @@
         
         
         
+        }.contenido2{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+            
+            
+            
+            .textoingles{
+            
+            text-align: justify;
+            
+            color: rgba(248, 245, 248, 0.87);
+            
+            font-size: 20px;
+            }
+            
+        .imageningles{
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url( imagen\ ingles2.png);
         }
-
-
-
-
-
-
