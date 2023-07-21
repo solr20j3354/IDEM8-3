@@ -43,7 +43,7 @@
         
         height: 200px;
         
-        width: 260px;
+        width: 280px;
         
         margin-left: 5px;
         
@@ -67,20 +67,17 @@
         
         }.contenido2{
 
-            height: 280px;
+            height: 1000px;
             
             width: 100%;
             
             position: absolute;
             
-            top: 410px;
+            top: 310px;
             
              
             
             }
-            
-            
-            
             
             .textoingles{
             
@@ -98,7 +95,7 @@
         
         height: 200px;
         
-        width: 260px;
+        width: 1px;
         
         margin-left: 5px;
         
@@ -106,3 +103,37 @@
         
         background-image: url( imagen\ ingles2.png);
         }
+        .contenido3{
+         height : 280px ;
+         width : 100% ;
+         position: absolute;
+         top: 410px;
+             
+        }
+            
+       .textomatematicas{
+            
+            text-align: justify;
+            
+            color: rgba(248, 245, 248, 0.87);
+            
+            font-size: 30px;
+            }
+            
+        .imagenmatematicas{
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 1px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        }
+            
+             
+            
+           
