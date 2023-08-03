@@ -13,7 +13,7 @@
     
     background-image: url("pexels-irina-iriser-7633185.jpg");
 
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     
     }
@@ -89,7 +89,7 @@
             }
             
         .imageningles{
-        border-image-repeat: repeat;
+       
         float:left;
         
         height: 200px;
@@ -153,7 +153,6 @@
         }
         
     .imagensociales{
-    background-repeat: no-repeat;
     
     float:left;
     
@@ -232,7 +231,42 @@
    
    background-image: url();
    }
+   .contenido6{
 
+    height: 1000px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 310px;
+
+    }
+    
+    .textoreligion{
+    
+    text-align: justify;
+    
+    color: rgba(248, 245, 248, 0.87);
+    
+    font-size: 20px;
+    }
+    
+.imagenreligion{
+background-repeat: no-repeat;
+
+float:left;
+
+height: 200px;
+
+width: 1px;
+
+margin-left: 5px;
+
+margin-right:5px;
+
+background-image: url(induismo.jpg);
+}
 
 
             
