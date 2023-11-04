@@ -192,19 +192,43 @@
             font-size: 50px;
             }
            
-       .imagenmatematicas{
-       background-repeat: no-repeat;
-       
-       float:left;
-       
-       height: 200px;
-       
-       width: 1px;
-       
-       margin-left: 5px;
-       
-       margin-right:5px;
-       }.contenido5{
+            .imagensociales2{
+               
+                background-repeat: no-repeat;
+                 float:left;
+                background-image: url("infografia.jpg");
+
+                height: 5000px;
+                
+                width: 760px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                }
+            
+            .imagensociales3{
+
+             background-repeat: no-repeat;
+             float:left;
+             background-image: url("infografia2.jpg");
+
+             height: 5000px;
+             
+             width: 760px;
+             
+             margin-left: 5px;
+             
+             margin-right:5px;
+             }
+
+
+
+            }
+            
+            
+            
+            .contenido5{
 
        height: 1000px;
        
