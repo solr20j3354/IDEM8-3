@@ -191,6 +191,22 @@
             
             font-size: 50px;
             }
+            .textosm5{
+           
+                text-align: justify;
+                
+                color: rgba(248, 245, 248, 0.87);
+                
+                font-size: 50px;
+                }
+                .textosm6{
+           
+                    text-align: justify;
+                    
+                    color: rgba(248, 245, 248, 0.87);
+                    
+                    font-size: 50px;
+                    } 
            
             .imagensociales2{
                
@@ -222,7 +238,21 @@
              margin-right:5px;
              }
 
+             .imagenmatematicas3{
 
+                background-repeat: no-repeat;
+                float:left;
+                background-image: url("matematicas\ factorizacion.jpg");
+   
+                height: 1000px;
+                
+                width: 1600px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                }
+   
              .imagentecnologia2{
     
                 float:left;
