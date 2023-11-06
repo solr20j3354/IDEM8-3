@@ -223,9 +223,22 @@
              }
 
 
-
-            }
+             .imagentecnologia2{
+    
+                float:left;
+                
+                height: 600px;
+                
+                width: 890px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("lenguaje-verbal-y-no-verbal-800x700.jpg");
+                }
             
+
             
             
             .contenido5{
